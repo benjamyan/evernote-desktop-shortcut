@@ -1,0 +1,22 @@
+{
+  "name": "evernote-desktop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "/src/index.js",
+  "scripts": {
+    "dev":"cd src/ && electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benjamyan/evernote-desktop-shortcut.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamyan/evernote-desktop-shortcut/issues"
+  },
+  "homepage": "https://github.com/benjamyan/evernote-desktop-shortcut#readme",
+  "devDependencies": {
+    "electron": "^15.0.0"
+  }
+}
